@@ -1,0 +1,122 @@
+
+//! Infura
+
+//https://infura.io
+INFURA_PROJECT_ID= {ID}
+
+
+//! ETH_APi
+
+// https://etherscan.io
+ETH_API = {API}
+
+
+//! BSC_API
+
+//https://bscscan.com
+BSC_API= {API}
+
+
+//! FinnHub
+
+// https://finnhub.io
+FIN_HUB_KEY = {KEY}
+
+//! Ip Geolocation
+
+// https://ipgeolocation.io
+IP_GEOLOCATION_KEY = {KEY}
+
+
+//! Now Payments
+
+// https://nowpayments.io
+NOW_PAYMENTS = {PAY}
+
+
+//! Paystack
+// https://paystack.com
+PAYSTACK_P_KEY = 
+PAYSTACK_S_KEY = 
+
+
+
+//! Braintree
+
+//https://www.braintreepayments.com
+
+BRAINTREE_TOKENIZATION_KEY = 
+BRAINTREE_APPLE_MERCHANT_ID =  //merchant id
+BRAINTREE_GOOGLE_MERCHANT_ID =    //merchant id
+
+
+//! Stealth Ex Swap
+
+// https://stealthex.io
+
+STEALTHEX_API = 
+
+
+//! Sentry
+
+// https://sentry.io/
+
+SENTRY_DSN=  
+
+
+//! Twilio
+
+// https://www.twilio.com
+
+ACCOUNT_SID = 
+AUTH_TOKEN = 
+SERVICE_SID = 
+
+//! Backend Endpoint
+
+// example : https://yourweburl.com/
+// Username and Password should be same with your config.php file 
+
+
+
+
+
+
+
+
+ENDPOINT_URL = 
+ENDPOINT_USERNAME = 
+ENDPOINT_PASSWORD = 
+
+
+# ENDPOINT_URL = 
+# ENDPOINT_USERNAME =
+# ENDPOINT_PASSWORD = 
+
+
+//! Bank
+
+// Add your bank details
+APP_BANK_NAME = 
+APP_BANK_ACC_NAME = 
+APP_BANK_ACC_NUM = 
+APP_BANK_SORT_CODE = 
+
+
+
+SELL_ADDRESS = 
+
+# ADDRESSES TO RECEIVE FUNDS
+
+btc_address = 
+ltc_address = 
+doge_address = 
+erc20_address = 
+P2P_COMMISSION = 
+
+
+// Test Cards
+//4242424242424242  stripe
+// 0224  expire date
+//323   cvv
+//5267318187975449   Razorpay
